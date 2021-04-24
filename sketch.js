@@ -24,7 +24,6 @@ var fb,fgi,fgg;
 function preload(){
 bg=loadImage("images/level 1 bg.jpg")
 hbg=loadImage("images/bg.png")
-fgi=loadImage("images/3star.png")
 bg2=loadImage("images/level 2bg.png")
 }
 function setup() {
